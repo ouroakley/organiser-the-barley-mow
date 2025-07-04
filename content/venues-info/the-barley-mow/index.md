@@ -5,4 +5,4 @@ build:
   render: never
   publishResources: false
 ---
-You can make a booking for our website by visiting our website: https://www.barleymowoakley.co.uk/
+You can make a booking for our restaurant by visiting our website: https://www.barleymowoakley.co.uk/
