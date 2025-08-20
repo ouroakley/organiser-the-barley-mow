@@ -74,6 +74,7 @@ collections:
         name: "venues"
         widget: "list"
         required: true
+        default: ["the-barley-mow"]
         hint: "Enter the venues for this event. Comma separated, with no spaces. Replace spaces with a dash. Use tbc if required."
       - label: "Organisers"
         name: "organisers"
